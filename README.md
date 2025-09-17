@@ -18,10 +18,10 @@ The goal is to extract actionable insights supporting Saudi Arabia’s Vision 20
 
   ## 📊 Key Visualizations
 
-![Tourists Over Time](images/tourists_over_time.png)  
+![Tourists Over Time](Images/tourists_over_time.png)  
 Tourist numbers dropped during COVID-19 (2020–2021) but recovered strongly after 2022.  
 
-![Inbound vs Domestic Spending](images/inbound_vs_domestic_spending.png)  
+![Inbound vs Domestic Spending](Images/inbound_vs_domestic_spending.png)  
 Inbound tourists account for fewer visits but contribute significantly more spending.
 
 ## 🚀 Conclusion
