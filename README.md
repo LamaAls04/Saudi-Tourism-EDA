@@ -21,13 +21,14 @@ Saudi Arabia’s tourism sector shows strong recovery post-COVID, with domestic 
 The findings can guide policymakers and businesses in expanding tourism offerings across provinces.  
 
 ## 📂 Repository Contents
-- `Saudi_Tourism_EDA_Report.ipynb` → Full analysis notebook
-- `tourism_data.csv` → Dataset 
-- `images/` → Selected plots and visualizations
+- `Saudi_Tourism_EDA_Report.ipynb` → Full analysis notebook  
+- `data/tourism_data.csv` → Dataset (from Kaggle)  
+- `images/` → Selected plots and visualizations  
 
 ## 📎 Data Source
-Dataset: [Saudi Arabia Tourism Data (Kaggle)]((https://www.kaggle.com/datasets/toobaik/saudi-arabia-tourism-dataset-20152024))  
+Dataset: [Saudi Arabia Tourism Data (Kaggle)](https://www.kaggle.com/datasets/toobaik/saudi-arabia-tourism-dataset-20152024)  
 The dataset is included in the `data/` folder for easy access.
+
 
 ---
 👤 Author: [Lama Alsubaie](https://github.com/LamaAls04)
